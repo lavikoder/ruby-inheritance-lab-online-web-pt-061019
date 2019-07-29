@@ -1,6 +1,7 @@
 class Student < User
   
-  def
+  
+  def learn(know)
   
  
   
