@@ -2,8 +2,9 @@ class Student < User
   
   
   def learn(know)
-    know = KNOWLEDGE
-    know.sample
+    know = KNOWLEDGE.sample
+    puts know
+  
   
  
   
