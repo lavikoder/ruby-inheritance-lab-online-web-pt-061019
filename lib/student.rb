@@ -9,7 +9,7 @@ class Student < User
     @knowledge << something_new
   end
     
-  end
+
   
   
  
