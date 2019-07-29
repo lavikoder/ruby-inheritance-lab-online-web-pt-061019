@@ -1,7 +1,8 @@
 class Student < User
   
   
-  # def learn(know)
+  def learn(know)
+    know = KNOWLEDE
   
  
   
