@@ -4,9 +4,9 @@ class Student < User
     @knowledge = []
   end
   
-  def learn(know)
-    know = KNOWLEDGE
-    puts know.sample
+  def learn(something_new)
+    
+    
   end
   
   
