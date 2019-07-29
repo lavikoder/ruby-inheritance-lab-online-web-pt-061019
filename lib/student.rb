@@ -5,7 +5,8 @@ class Student < User
   end
   
   def learn(something_new)
-    
+  
+  end
     
   end
   
