@@ -9,7 +9,7 @@ class User
     @knowledge = []
   end
   
-  def teach
+  def learn
     knowledge.each do |s|
     end
       
