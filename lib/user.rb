@@ -8,10 +8,4 @@ class User
     @last_name = last_name
     @knowledge = []
   end
-  
-  def learn
-    knowledge.each do |s|
-    end
-      
-  
 end
